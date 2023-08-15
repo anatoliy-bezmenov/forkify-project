@@ -1,0 +1,10 @@
+IMPORTANT COMMAND: npm i @parcel/transformer-sass
+
+ALSO:
+
+if linux try with:
+
+    npm cache clean -force
+    rm -rf node_modules
+    npm install node
+    npm run start
